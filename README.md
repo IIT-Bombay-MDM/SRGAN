@@ -1,5 +1,5 @@
 # SRGAN
-R&amp;D 1 Work from Saurabh
+R&amp;D 1 Model trained by Saurabh
 
 Image Super Resolution Model called SRGAN, which is based on a research paper from 2017.
 [Paper Link](https://arxiv.org/pdf/1609.04802)
